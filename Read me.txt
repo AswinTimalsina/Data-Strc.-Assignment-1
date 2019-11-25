@@ -1,0 +1,19 @@
+Prog 1
+Programming Assignment 1
+
+Your task is to implement an inheritance hierarchy by writing the Creature, Plip, and Croon classes as specified in the assignment description.
+
+To test the basic syntax and functionality of your classes, the CreatureTest program should be downloaded and stored in the same folder as your classes.  Compile and execute CreatureTest.  If this test program and your classes do not work well together, you need to modify your classes.
+
+When you are satisfied that your solution works, submit the following to Mimir for testing:
+
+Creature.java
+Plip.java
+Croon.java
+Your submission should contain no files other than the three source files above.
+
+ 
+CreatureTest.java CreatureTest.java
+ 
+Fa2018p1.pdf Fa2018p1.pdf
+
